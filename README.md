@@ -6,8 +6,11 @@ A comprehensive list of resources around the Twitch platform
 [Twitch Blog](https://blog.twitch.tv/)   
 [@Twitch on Twitter](https://twitter.com/Twitch)   
 [Twitch on Twitch](https://go.twitch.tv/twitch)   
-[Twitch Extensions - Developers](https://dev.twitch.tv/extensions)   
 [Twitch Extensions](https://www.twitch.tv/p/extensions/)   
+
+## Twitch for Developers
+[Twitch Developer Mailinglist](https://dev.twitch.tv/join)   
+[Twitch Developer Extensions](https://dev.twitch.tv/extensions)   
 
 ## Communities
 [Twitch on STOMT](https://www.stomt.com/twitch)   
@@ -32,8 +35,11 @@ A comprehensive list of resources around the Twitch platform
 [/r/StreamersGoneWild](https://www.reddit.com/r/StreamersGoneWild)   
 [/r/LeagueOfNSFW](https://www.reddit.com/r/LeagueOfNSFW)   
 
-## Twitch related Twittcher Channes 
+## Channels on Twitter
 [@twitchcreates](https://twitter.com/twitchcreates)   
+
+## Hashtags on Twitter
+[Best Hashtags for Twitch on RiteTag](https://ritetag.com/best-hashtags-for/TWITCH)   
 
 ## Tools
 [Embed.Ly - TwitchTV](http://embed.ly/provider/twitchtv) - Embed Twitch on your website   
@@ -51,5 +57,5 @@ A comprehensive list of resources around the Twitch platform
 [Twitch Live - Chrome](https://chrome.google.com/webstore/detail/twitch-live/iiljidcefnbhbpamageahhblhbbhhopm)   
 [Global Twitch Emotes - Chrome](https://chrome.google.com/webstore/detail/global-twitch-emotes/pgniedifoejifjkndekolimjeclnokkb)   
 
-## Lists
-https://www.reddit.com/r/Twitch/comments/2vsbxk/a_collection_of_useful_toolssites/   
+## Other Lists
+https://www.reddit.com/r/Twitch/comments/2vsbxk/a_collection_of_useful_toolssites/ - archived
