@@ -43,10 +43,8 @@ A comprehensive list of resources around the Twitch platform
 
 ## Tools
 [Embed.Ly - TwitchTV](http://embed.ly/provider/twitchtv) - Embed Twitch on your website   
-
-### Watch multiple streams
 [Multitwitch](http://www.multitwitch.tv/) - Watch multiple Twitch Streams at the same time   
-[Gamercide](https://live.gamercide.org/)   
+[Gamercide](https://live.gamercide.org/) - Watch multiple Twitch Streams at the same time
 
 ## Twitch Extensions
 [Streamlabs](https://streamlabs.com/)   
