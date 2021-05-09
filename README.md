@@ -1,4 +1,4 @@
-# Twitch-Ecosystem
+# Twitch-Ecosystem (outdated)
 A comprehensive list of resources around the Twitch platform
 
 ## Official Twitch Resources
